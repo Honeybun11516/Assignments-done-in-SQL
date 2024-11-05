@@ -1,5 +1,5 @@
 # Assignments-done-in-SQL
-These are the requirments and taks given for this assignment:
+These are the requirments and tasks given for this assignment:
 Part One - Create a view named "initialCustomers" that shows the first name, last name, and email address of customers that have an id of less than 100. Once that is complete, select and view your newly created view.
 
 Part Two - Complete the following:
